@@ -1,3 +1,8 @@
+/*
+4. Write a JAVA program to find perimeter of two rectangles using constructors. 
+(use default constructor and parameterized constructor to initialize values of length and breadth of 2 rectangles respectively.) 
+*/
+
 import java.util.Scanner;
 
 class Peri{
