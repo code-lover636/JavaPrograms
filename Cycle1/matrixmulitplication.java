@@ -1,3 +1,7 @@
+/*
+1. Write a JAVA program to multiply 2 given matrices. 
+*/
+
 import java.util.Scanner;
 
 class MatrixMultiplication{
