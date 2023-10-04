@@ -1,3 +1,22 @@
+/*
+3. Design a class to represent a bank account
+Include the following members:
+
+Data members:
+
+    Name of the depositor
+    Account number
+    Type of account
+    Balance amount in the account
+
+Methods:
+
+    To assign initial values
+    To Deposit an amount
+    To withdraw an amount after checking balance
+    To display the name and balance
+*/
+
 import java.util.Scanner;
 
 class BankDetails{
