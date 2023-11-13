@@ -19,8 +19,16 @@ class Fibonacci{
 		int  num = sc.nextInt();
 		
 		System.out.println("Fibonacci series of " + num + "numbers:");
-		for(int i=0; i<num; i++){
-			System.out.println(fib(i));
+		int i=0;
+		while(true){
+			int ans = fib(i);
+			if(ans <= num){
+				System.out.println(ans);
+			}
+			else{
+				break;
+			}
+			i++;
 		}
 	}
 }
