@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-class frequency{
+public class FrequencyCount{
 	public static void main(String args[]){
 		Scanner sc = new Scanner(System.in);
 		int count = 0;
