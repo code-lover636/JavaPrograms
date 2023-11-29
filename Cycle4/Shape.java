@@ -24,9 +24,9 @@ public class TestShape{
 	public static void main(String args[]){
 		Shape shape;
 		shape = new Rectangle();
-		shape.numberOfSides()
+		shape.numberOfSides();
 		shape = new Triangle();
-		shape.numberOfSides()
+		shape.numberOfSides();
 		shape = new Hexagon();
 		shape.numberOfSides();
 	}
