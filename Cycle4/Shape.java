@@ -22,11 +22,12 @@ class Hexagon extends Shape{
 
 public class TestShape{
 	public static void main(String args[]){
-		Rectangle r = new Rectangle();
-		Triangle t = new Triangle();
-		Hexagon h = new Hexagon();
-		r.numberOfSides();
-		t.numberOfSides();
-		h.numberOfSides();
+		Shape shape;
+		shape = new Rectangle();
+		shape.numberOfSides()
+		shape = new Triangle();
+		shape.numberOfSides()
+		shape = new Hexagon();
+		shape.numberOfSides();
 	}
 }
