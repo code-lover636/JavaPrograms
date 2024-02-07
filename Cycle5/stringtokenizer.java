@@ -1,7 +1,7 @@
 import java.util.StringTokenizer;
 import java.util.Scanner;
 
-public class IntToString{
+public class StringToInt{
 	public static void main(String args[]){
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter line of integers: ");
